@@ -1,0 +1,55 @@
+const translations = {
+  en: {
+    "nav.admin": "Administration",
+    "nav.ia": "AI & Automation",
+    "nav.contact": "Contact",
+
+    "hero.kicker": "Administration · Automation · Artificial Intelligence",
+    "hero.sub": "I combine real experience in management and administration with specialized training in artificial intelligence. I design processes that run on their own and systems that solve real business problems.",
+    "hero.cta_admin": "View Administration profile",
+    "hero.cta_ia": "View AI projects",
+    "hero.cv": "Download CV (PDF)",
+
+    "intro.text": "Degree in Business Administration and Management, a 750-hour specialization in Artificial Intelligence, and several years of experience managing collections, incidents and operations in real environments. Today I apply that same practical mindset to process automation, web development and AI-driven systems.",
+
+    "admin.title": "Administration",
+    "admin.lead": "Management, processes and operations — the foundation everything else is built on.",
+    "admin.exp_title": "Professional experience",
+    "admin.exp1_role": "Collections Management · Back Office",
+    "admin.exp1_b1": "Managed and tracked collections, documentation and administrative incidents.",
+    "admin.exp1_b2": "Direct communication with major accounts and incident resolution.",
+    "admin.exp1_b3": "Trained and supervised new team members joining the department.",
+    "admin.exp1_b4": "Identified repetitive tasks and drafted automation proposals.",
+    "admin.exp2_role": "Supply Logistics",
+    "admin.exp2_b1": "Managed purchases and sales with clients and suppliers, and inventory control.",
+    "admin.exp3_role": "Administrative Assistant & Store Manager",
+    "admin.exp3_b1": "Administrative tasks and coordination of daily store operations.",
+    "admin.project_title": "Featured project",
+    "admin.project_tag": "Process optimization",
+    "admin.project_name": "Administrative process automation proposals",
+    "admin.project_desc": "During my time in collections management, I identified and documented four proposals to remove repetitive manual work: automatic contract renewal, OCR/AI-based reading of work orders, an Excel data-cleaning assistant, and a smart-rate system for multi-visit invoicing.",
+    "admin.education_title": "Education",
+    "admin.edu2": "Advanced Vocational Training in Administration and Finance",
+    "admin.edu3": "Intermediate Vocational Training in Administrative Management",
+
+    "ia.title": "AI & Automation",
+    "ia.lead": "Systems that connect tools, data and artificial intelligence so the work runs by itself.",
+    "ia.projects_title": "Projects",
+    "ia.p1_tag": "Automation · AI · Chatbot",
+    "ia.p1_desc": "AI-powered fitness brand that generates personalized training and nutrition plans from a web form. The flow connects the form to ChatGPT, generates a PDF, sends it by email and archives it in Drive and Sheets, with a support chatbot and a Looker Studio tracking dashboard.",
+    "ia.p2_tag": "Audiovisual content",
+    "ia.p2_name": "FitAI Planner demo video",
+    "ia.p2_desc": "Explainer video walking through the full user experience and the internal workings of the flow, produced with AI image, video and audio tools.",
+    "ia.p2_pending": "Video coming soon",
+    "ia.tools_title": "Tools",
+    "ia.tools_more": "Adobe / photo editing",
+    "ia.education_title": "Education",
+    "ia.edu1": "AI Specialist Program",
+    "ia.edu1_org": "Racks Academy · IUNIT University Center certification · 2025–2026",
+    "ia.modules": "Modules: LLMs · Content creation · Bots · Automation · Data analysis · Web development · Technical foundations · SaaS · Freelance.",
+
+    "contact.title": "Contact",
+    "contact.text": "Have a manual process eating up your time, or looking for someone with both an administration and a systems mindset for your team? Let's talk.",
+    "contact.cv": "Download CV"
+  }
+};
