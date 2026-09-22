@@ -295,7 +295,21 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 500; margin: 0; 
   color: var(--ink-muted);
   background: rgba(255,255,255,0.4);
 }
-
+.video-embed {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 /* Tools grid */
 .tools-grid { display: flex; flex-wrap: wrap; gap: 10px; }
 .tools-grid span {
